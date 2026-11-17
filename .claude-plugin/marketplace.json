@@ -1,0 +1,11 @@
+{
+  "name": "ide-vibe-panel",
+  "owner": { "name": "Gustavo Castro" },
+  "plugins": [
+    {
+      "name": "ide-vibe-panel",
+      "source": "./",
+      "description": "Painel com os comandos de terminal que o Claude roda, o que está de pé no ambiente local e os servidores MCP"
+    }
+  ]
+}

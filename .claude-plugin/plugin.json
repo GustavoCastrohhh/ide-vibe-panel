@@ -1,0 +1,10 @@
+{
+  "name": "ide-vibe-panel",
+  "version": "0.4.0",
+  "license": "MIT",
+  "description": "Painel com duas abas: os comandos de terminal que o Claude roda e o que está rodando do projeto na máquina (backend, frontend, testes, Docker) e os servidores MCP locais",
+  "author": { "name": "Gustavo Castro", "url": "https://github.com/GustavoCastrohhh" },
+  "homepage": "https://github.com/GustavoCastrohhh/ide-vibe-panel",
+  "repository": "https://github.com/GustavoCastrohhh/ide-vibe-panel",
+  "types": "./types/index.d.ts"
+}
